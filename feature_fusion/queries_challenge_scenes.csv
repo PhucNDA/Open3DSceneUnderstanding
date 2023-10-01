@@ -1,0 +1,6 @@
+video_id,visit_id,query,rotate,processed caption,promptcaption,guided caption,distractor
+42445173,420693,cushion with an alpaca print,1,alpaca cushion,alpaca cushion, alpaca cushion, nothing
+42445677,422163,sofa right across the TV,2, sofa,sofa, sofa across TV, TV
+42445935,422539,christmas stockings,1,christmas stockings,christmas stockings, christmas stockings, ntohing
+42446478,422523,present,1,present,present, present, ntohing
+42446588,422356,wall art with a green background,0,green background picture,green background picture,green background picture, ntohing

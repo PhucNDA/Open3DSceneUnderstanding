@@ -1,0 +1,5 @@
+predicted_masks/42446529_001.txt 0.75
+predicted_masks/42446529_002.txt 0.75
+predicted_masks/42446529_003.txt 0.75
+predicted_masks/42446529_004.txt 0.75
+predicted_masks/42446529_005.txt 0.75

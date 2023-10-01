@@ -1,0 +1,1 @@
+predicted_masks/42897545_001.txt 0.75

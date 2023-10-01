@@ -1,0 +1,5 @@
+# ninja log v5
+143	4095	1694420626000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/build/temp.linux-x86_64-cpython-38/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/groundingdino/models/GroundingDINO/csrc/cuda_version.o	a8cebb495ea187b8
+142	7414	1694420629000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/build/temp.linux-x86_64-cpython-38/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	46aef370eca6e154
+143	29769	1694420651000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/build/temp.linux-x86_64-cpython-38/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/groundingdino/models/GroundingDINO/csrc/vision.o	c4aee11c424fd883
+142	96796	1694420718000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/build/temp.linux-x86_64-cpython-38/home/phucnda/open3d/iccvw_resource/ICCVW/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	ef871bf5d8bc3e18

@@ -1,0 +1,14 @@
+predicted_masks/42446100_001.txt 0.75
+predicted_masks/42446100_002.txt 0.75
+predicted_masks/42446100_003.txt 0.75
+predicted_masks/42446100_004.txt 0.75
+predicted_masks/42446100_005.txt 0.75
+predicted_masks/42446100_006.txt 0.75
+predicted_masks/42446100_007.txt 0.75
+predicted_masks/42446100_008.txt 0.75
+predicted_masks/42446100_009.txt 0.75
+predicted_masks/42446100_010.txt 0.75
+predicted_masks/42446100_011.txt 0.75
+predicted_masks/42446100_012.txt 0.75
+predicted_masks/42446100_013.txt 0.75
+predicted_masks/42446100_014.txt 0.75

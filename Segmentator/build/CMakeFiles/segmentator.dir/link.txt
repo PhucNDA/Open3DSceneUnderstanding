@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/segmentator.dir/segmentator.cpp.o CMakeFiles/segmentator.dir/tinyply.cpp.o  -o segmentator 

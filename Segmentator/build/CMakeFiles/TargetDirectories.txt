@@ -1,0 +1,3 @@
+/home/tinhn/3D/ICCVW/Segmentator/build/CMakeFiles/rebuild_cache.dir
+/home/tinhn/3D/ICCVW/Segmentator/build/CMakeFiles/edit_cache.dir
+/home/tinhn/3D/ICCVW/Segmentator/build/CMakeFiles/segmentator.dir

@@ -1,0 +1,2 @@
+predicted_masks/47331262_001.txt 0.75
+predicted_masks/47331262_002.txt 0.75
