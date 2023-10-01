@@ -1,0 +1,20 @@
+# ninja log v5
+7	12780	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda.o	41047b24947c1db4
+14	12787	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	74fa5363ac04a86e
+12	12811	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda.o	9f6b0365a904d630
+6	12849	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	27cc6a8a9604a3d3
+9	12964	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda.o	2bc36ed69efa2fe7
+8	13044	1694420828000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	af0e13a9d4d7c353
+13	16548	1694420832000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	b4997955cb9b291
+7	16767	1694420832000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda.o	2b94fb863d66941d
+8	16781	1694420832000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	c12e9a94f6fb54a1
+11	42787	1694420858000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	b3cf9bc4f87e37ad
+7	115527	1694420931000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda_kernel.o	46e19b0c9d7951ef
+9	115977	1694420931000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	a94d05b52542556b
+14	116134	1694420931000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	e7d5a63b843de12e
+6	116152	1694420931000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	e144651ba90d02a6
+10	116337	1694420931000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda_kernel.o	3b7684f7323fc8fb
+7	116650	1694420932000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda_kernel.o	3124569193baa262
+8	119211	1694420934000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	5e6d3a72ddddebf0
+13	119761	1694420935000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda_kernel.o	da09b0cf9dd112f8
+14	125698	1694420941000000000	/home/phucnda/open3d/iccvw_resource/ICCVW/SegmentAnything3D/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	824aa951d5b927ea
