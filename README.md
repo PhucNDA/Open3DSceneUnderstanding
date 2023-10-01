@@ -1,2 +1,2 @@
 # Open3DSceneUnderstanding
-[ICCVW23] VinAI-3DIS Metadata repo of OpenSUN3D  
+[ICCVW23] VinAI-3DIS Metadata repo of OpenSUN3D (3D open-vocabulary scene understanding challenge at the OpenSun3D workshop held in conjunction with ICCV 2023)
